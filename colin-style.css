@@ -1,0 +1,38 @@
+* {
+	background-color: pink;
+}
+
+h1 {
+	background-color: white;
+	color: purple;
+	text-align: center;
+}
+
+h2 {
+	background-color: purple;
+	color: white;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+	border-width: 3px;
+}
+
+h3 {
+	color: purple;
+	border-style: dotted;
+	border-color: white;
+}
+
+p {
+	color: white;
+	border-style: dotted;
+	border-color: purple;
+}
+
+.title1 {
+	border-style: solid;
+	border-width: 7px;
+	border-color: purple;
+	f
+}
+
